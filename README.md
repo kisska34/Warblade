@@ -226,4 +226,4 @@ Warblade is available as a **full free version**, with all features and updates 
 Download Warblade now and take on the challenge of defending Earth against alien forces! Your adventure awaits!
 
 ---
-**Last updated:** 2026-09-19 22:01:55 UTC
+**Last updated:** 2026-09-20 00:33:27 UTC
